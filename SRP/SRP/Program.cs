@@ -1,7 +1,7 @@
 ﻿using SRP.GOOD;
 using SRP;
 
-//ts job is not only to keep track of our work report entries but to save the entire work report to a file.
+//its job is not only to keep track of our work report entries but to save the entire work report to a file.
 //This means that we are violating the SRP and our class has more than one reason to change in the future.
 
 //The first reason to change this class is if we want to modify the way we keep track of our entries.
